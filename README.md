@@ -1,2 +1,2 @@
 # portfolio.com
-file:///C:/Users/srira/Desktop/img/portfolio%20website.html
+https://srirammohan2002.github.io/portfolio.com/
